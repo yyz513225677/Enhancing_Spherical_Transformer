@@ -1,4 +1,3 @@
-# Enhancing Spherical Transformer (EST)
 
 This repository implements the end-to-end EST pipeline:
 
